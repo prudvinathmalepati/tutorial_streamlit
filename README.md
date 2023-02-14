@@ -1,19 +1,17 @@
-# Diamond Price Predictor App using Streamlit #
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/example-app-download/main/app.py)
 
-## By: Nate DiRenzo ##
+# 📥 Download App
 
-### Statement of Purpose ###
+A simple download metrics app where you can compare Pandas's downloads to other popular Python libraries!
 
-The purpose of this repository is as a tutorial for creating a regression model that predicts the price of a diamond, and building a simple frontend application to make the model publicly available using Streamlit.
+<img src="https://user-images.githubusercontent.com/27242399/157869053-a6363c2b-1849-426d-9547-6cd10d43a6f6.png" width="500"/>
 
-### Data Description ###
+---
+### About the app
 
-The data we will be using for this project is the [Diamonds](https://www.kaggle.com/datasets/shivam2503/diamonds) dataset, which is publicly available via Kaggle. It contains 53940 observations, and 10 features in the dataset.
+- App created using 🎈[Streamlit](https://streamlit.io/)
+- Deployed on [Streamlit Cloud](https://streamlit.io/cloud) ☁️
+---
+### Questions? Comments?
 
-### Tools ###
-
-- **Pandas** for accessing the data, and preparing the it for modeling.
-
-- **XGBoost** for creating a gradient-boosted regression model.
-
-- **Streamlit** for creating a frontend application
+Please ask in the [Streamlit community](https://discuss.streamlit.io).
