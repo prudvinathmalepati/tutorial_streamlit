@@ -97,7 +97,7 @@ sidebar.write(
 # Create a title for your app
 st.title("Interactive K-Means Clustering")
 """
-An illustration by [Thuwarakesh Murallie](https://thuwarakesh.medium.com) for the Streamlit introduction article on Medium.
+An illustration by Prudvinath for the Streamlit introduction article on Medium.
 """
 
 
