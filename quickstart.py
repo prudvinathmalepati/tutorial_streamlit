@@ -78,17 +78,6 @@ n_clusters = sidebar.slider(
     max_value=10,
 )
 
-sidebar.write(
-    """
-    Hey friend!It seems we have lots of common interests. 
-
-    I'd love to connect with you on 
-    - [LinkedIn](https://linkedin.com/in/thuwarakesh/)
-    - [Twitter](https://www.twitter.com/thuwarakesh/)
-
-    And please follow me on [Medium](https://thuwarakesh.medium.com/), because I write about data science.
-    """
-)
 # -----------------------------------------------------------
 
 
