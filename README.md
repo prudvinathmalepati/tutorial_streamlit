@@ -1,6 +1,6 @@
 # Diamond Price Predictor App using Streamlit #
 
-## By: Nate DiRenzo ##
+## By: Prudvinath Malepati ##
 
 ### Statement of Purpose ###
 
